@@ -1,0 +1,17 @@
+psycopg2-binary
+langchain_community
+qdrant-client
+langchain_qdrant
+PyMuPDF
+accelerate
+bitsandbytes
+langchain
+sentence-transformers
+transformers
+tqdm
+torch
+tokenizers
+torchaudio
+torchvision
+huggingface_hub
+pandas
